@@ -30,7 +30,9 @@ a:hover {
 }
 
 h1 {
-  font-family: cursive;
+  font-family: "Permanent Marker", serif;
+  font-weight: 400;
+  font-style: normal;
   color: #710e39;
   text-align: center;
 }
@@ -48,14 +50,15 @@ main p {
 
 main div {
   padding: 40px 0;
+  text-align: center;
 }
 
 main div img {
   display: inline-block;
   text-align: center;
 
-  max-width: 200px;
-  max-height: 150px;
+  max-width: 300px;
+  max-height: 250px;
   width: auto;
   height: auto;
 }
